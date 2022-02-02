@@ -1,0 +1,30 @@
+.card-deck:hover{
+    background-color: transparent;
+  }
+  .card:hover{
+   color:orange;
+  background-color: green;
+  }
+  .card a:hover{
+    color: green;
+    font-weight: bolder;
+    
+  }
+  .buy{
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    border-radius: 100px;
+    border: 0;
+
+  }
+ .buy:hover{
+     background-color: orange;
+     color: black;
+ }
+ .buy:active{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
